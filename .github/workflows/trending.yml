@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  models: read
 jobs:
   run:
     runs-on: ubuntu-latest
