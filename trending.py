@@ -25,6 +25,19 @@ def search(q):
         return json.load(r)["items"]
 
 
+def translate(text):
+    """To Russian via free MyMemory API; on any failure keep the original."""
+    if not text:
+        return text
+    url = "https://api.mymemory.translated.net/get?" + urllib.parse.urlencode({"q": text[:500], "langpair": "autodetect|ru"})
+    try:
+        with urllib.request.urlopen(url, timeout=15) as r:
+            d = json.load(r)
+        return d["responseData"]["translatedText"] if d.get("responseStatus") == 200 else text
+    except Exception:
+        return text
+
+
 def score(stars, prev, age_days):
     return stars - prev if prev is not None else stars / max(age_days, 1)
 
@@ -52,15 +65,15 @@ def main():
     rows.sort(key=lambda x: -x[0])
 
     out = [
-        f"# GitHub fast risers - {now.date()}",
+        f"# Быстрорастущие репозитории GitHub - {now.date()}",
         "",
-        "Δ = stars gained in 24h. `~` = estimate (stars / age), repo not tracked yet.",
+        "Δ = прирост звёзд за 24 ч. `~` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.",
         "",
-        "| # | Repo | Stars | Δ/day | Age (d) | Lang | Description |",
+        "| # | Репозиторий | Звёзды | Δ/день | Возраст (дн) | Язык | Описание |",
         "|---|------|-------|-------|---------|------|-------------|",
     ]
     for i, (s, est, name, r, age) in enumerate(rows[:TOP], 1):
-        desc = (r["description"] or "").replace("|", "/").replace("\n", " ")[:120]
+        desc = translate(r["description"] or "").replace("|", "/").replace("\n", " ")[:120]
         out.append(
             f"| {i} | [{name}]({r['html_url']}) | {r['stargazers_count']} | "
             f"{'~' if est else '+'}{s:.0f} | {age} | {r['language'] or '-'} | {desc} |"
