@@ -16,7 +16,7 @@ jobs:
       - run: |
           git config user.name github-actions
           git config user.email actions@github.com
-          git add digest.md data
+          git add digest.md README.md data
           if ! git diff --cached --quiet; then
             git commit -m "digest $(date -u +%F)"
             git push
