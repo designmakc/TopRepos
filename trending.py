@@ -1,4 +1,4 @@
-"""Daily digest of fastest-growing GitHub repos -> digest.md.
+"""Daily digest of fastest-growing GitHub repos -> digest.md + README.md (shown on the repo main page).
 
 Velocity = stars gained since yesterday's snapshot (data/stars.json).
 Repos not in the snapshot yet (first run / newly found) get an estimate: stars / age in days.
@@ -79,8 +79,9 @@ def main():
             f"{'~' if est else '+'}{s:.0f} | {age} | {r['language'] or '-'} | {desc} |"
         )
 
-    with open("digest.md", "w") as f:
-        f.write("\n".join(out) + "\n")
+    for path in ("digest.md", "README.md"):
+        with open(path, "w") as f:
+            f.write("\n".join(out) + "\n")
     os.makedirs("data", exist_ok=True)
     with open(SNAP, "w") as f:
         json.dump({n: r["stargazers_count"] for n, r in repos.items()}, f)
