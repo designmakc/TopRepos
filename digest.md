@@ -1,21 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-04
+# Быстрорастущие репозитории GitHub - 2026-10-05
 
-Δ = прирост звёзд за 24 ч. `~` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
+`+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
-| # | Репозиторий | Звёзды | Δ/день | Возраст (дн) | Язык | Описание |
-|---|------|-------|-------|---------|------|-------------|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 243096 | ~4767 | 51 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 30548 | ~1909 | 16 | Python | Механизм принятия решений неавторегрессивной системы 1. Типизированный выбор, оценка и решения «да/нет» по любому тексту |
-| 3 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 38445 | ~1424 | 27 | HTML | Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юри |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 153923 | ~1350 | 114 | JavaScript | Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы |
-| 5 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 21929 | ~1290 | 17 | Python | Самый быстрый и дешевый веб-агент |
-| 6 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 5567 | ~1113 | 5 | TypeScript | Фреймворк сайта для поиска собственной точки доступа и написания собственной ежедневной газеты. Поменяйте фид и критерии |
-| 7 | [Niko1221/Strata](https://github.com/Niko1221/Strata) | 9000 | ~1000 | 9 | C++ | Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Двигатель вывода ст |
-| 8 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 89234 | ~714 | 125 | Python | Самостоятельно размещаемое рабочее пространство ИИ. |
-| 9 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 2783 | ~696 | 4 | TypeScript | Ваши постоянные коллеги по ИИ, которые перемещаются между текстовыми сообщениями, звонками и Slack. |
-| 10 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 2751 | ~688 | 4 | Python | Очко Клода в любой игре. Навыки, инструменты и FAL MCP, которые позволяют Claude Code модифицировать практически любую к |
-| 11 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2583 | ~646 | 4 | Python | Точки с открытым исходным кодом для Интернета: ИИ-агент с собственным браузером, который не блокируется. |
-| 12 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 99351 | ~625 | 159 | TypeScript | 🎨 Лучший плагин для проектирования жгутов проводов DeepSeek. Альтернатива Claude Design с открытым исходным кодом. 🖥️ Ло |
-| 13 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 7311 | ~609 | 12 | Kotlin | Второй пилот диалога, установленный на мобильном телефоне: прочитайте другую сторону в QQ/X/летающих книгах, дайте ответ |
-| 14 | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 29906 | ~586 | 51 | TypeScript | Современное настольное решение для экосистемы плагинов DeepSeek Harness (DSH). Все - «плагин», а сам рабочий стол - «пла |
-| 15 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 7386 | ~568 | 13 | TypeScript | Жгут проводов агента кодирования Z.ai. Мощный, умный, расширяемый. |
+### 1. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+⭐ 42 361 · +3 916/день · 28 дн · HTML
+
+- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+
+### 2. [Niko1221/Strata](https://github.com/Niko1221/Strata)
+⭐ 12 535 · +3 535/день · 10 дн · C++
+
+- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
+
+### 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+⭐ 155 523 · +1 600/день · 115 дн · JavaScript
+
+- **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
+
+### 4. [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm)
+⭐ 1 218 · ~1 218/день · 1 дн · TypeScript
+
+- **Что это:** нет описания
+
+### 5. [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
+⭐ 4 382 · +1 163/день · 10 дн · Kotlin
+
+- **Что это:** Независимый приемник CarPlay для совместимых головных устройств Android. Проводной и беспроводной публичный предварительный просмотр.
+
+### 6. [tt-a1i/archify](https://github.com/tt-a1i/archify)
+⭐ 77 829 · +950/день · 173 дн · JavaScript
+
+- **Что это:** Превратите любую идею, план или кодовую базу в красивую интерактивную диаграмму. Навык агента для Claude Code, Codex и других.
+
+### 7. [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+⭐ 3 531 · +780/день · 5 дн · Python
+
+- **Что это:** Очко Клода в любой игре. Навыки, инструменты и FAL MCP, которые позволяют Claude Code модифицировать практически любую компьютерную игру, которой вы владеете: разведка, обратный инжиниринг, арт/3D/аудио, тестирование в игре, демонстрация видео.
+
+### 8. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
+⭐ 20 826 · +760/день · 160 дн · Python
+
+- **Что это:** Независимый аудит агентов ИИ. Управляется человеком или самим агентом, чтобы ответить на самый важный вопрос в экономике ИИ-агентов. Делает ли агент то, что должен делать? С iFixAi вы можете получить этот ответ менее чем за 120 секунд.
+
+### 9. [Avenuezensport/efjvysuz](https://github.com/Avenuezensport/efjvysuz)
+⭐ 1 903 · +694/день · 13 дн · -
+
+- **Что это:** Добро пожаловать в Shnek-Tools, мультиинструмент с множеством опций. Все функции полностью бесплатны и функциональны. Мы надеемся, что вам понравится, и не стесняйтесь дать ему звезду.
+
+### 10. [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)
+⭐ 1 326 · ~663/день · 2 дн · C
+
+- **Что это:** SDK с открытым исходным кодом для создания гаджетов Muse
+
+### 11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+⭐ 53 428 · +639/день · 178 дн · Python
+
+- **Что это:** VoiceStudio - это полностью локальная альтернатива ElevenLabs с открытым исходным кодом — клонирование голоса, голосовой дизайн, дублирование видео, диктовка, транскрипция и создание аудиокниг на 646 языках.
+
+### 12. [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
+⭐ 3 421 · +638/день · 5 дн · TypeScript
+
+- **Что это:** Ваши постоянные коллеги по ИИ, которые перемещаются между текстовыми сообщениями, звонками и Slack.
+
+### 13. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+⭐ 243 733 · +637/день · 53 дн · TypeScript
+
+- **Что это:** DeepSeek Harness: Everything is a Plugin.
+
+### 14. [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)
+⭐ 7 597 · +625/день · 16 дн · HTML
+
+- **Что это:** Экономичное руководство по жизни 528 Online One-Page Reading Edition: Mobile Readable, Searchable, Zero Dependency, Offline Support
+
+### 15. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+⭐ 24 569 · +594/день · 108 дн · JavaScript
+
+- **Что это:** Навык агента кодирования для многоэтапных аудитов безопасности с независимо проверенными, машиночитаемыми результатами
+
