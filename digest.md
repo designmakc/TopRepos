@@ -1,79 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-07
+# Быстрорастущие репозитории GitHub - 2026-10-08
 
 `+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
 ### 1. [storytold/photocraft](https://github.com/storytold/photocraft)
-⭐ 12 131 · +9 610/день · 6 дн · Rust
+⭐ 21 814 · +9 683/день · 7 дн · Rust
 
 - **Что это:** Перепроектирование Adobe Photoshop в чистом Rust с открытым исходным кодом
 
-### 2. [openai/math](https://github.com/openai/math)
-⭐ 6 754 · ~6 754/день · 0 дн · Lean
+### 2. [morluto/rea](https://github.com/morluto/rea)
+⭐ 19 237 · +7 775/день · 177 дн · TypeScript
 
-- **Что это:** нет описания
+- **Что это:** Обратное проектирование всего, что связано с агентами, от поведения приложения до нативных двоичных файлов.
 
 ### 3. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-⭐ 48 955 · +3 691/день · 30 дн · HTML
+⭐ 53 609 · +4 654/день · 31 дн · HTML
 
 - **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
 
-### 4. [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
-⭐ 10 383 · +1 772/день · 20 дн · Swift
+### 4. [openai/math](https://github.com/openai/math)
+⭐ 11 235 · +4 481/день · 1 дн · Lean
+
+- **Что это:** нет описания
+
+### 5. [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+⭐ 12 596 · +2 213/день · 21 дн · Swift
 
 - **Что это:** Альтернатива Photoshop для Mac
 
-### 5. [Niko1221/Strata](https://github.com/Niko1221/Strata)
-⭐ 16 402 · +1 501/день · 12 дн · C++
+### 6. [storytold/lightcraft](https://github.com/storytold/lightcraft)
+⭐ 3 980 · +2 079/день · 7 дн · Rust
 
-- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
+- **Что это:** Реализация Adobe Lightroom в чистом Rust с открытым исходным кодом.
 
-### 6. [lexmount/moli](https://github.com/lexmount/moli)
-⭐ 11 828 · +1 497/день · 57 дн · Rust
+### 7. [storytold/filmcraft](https://github.com/storytold/filmcraft)
+⭐ 4 119 · +1 751/день · 7 дн · Rust
+
+- **Что это:** Реализация Adobe Premiere Pro с открытым исходным кодом и чистой комнатой, построенная на чистом Rust.
+
+### 8. [lexmount/moli](https://github.com/lexmount/moli)
+⭐ 13 344 · +1 516/день · 58 дн · Rust
 
 - **Что это:** Лучший обезглавленный браузер для ИИ-агентов. Легкий, быстрый, высокосовместимый. Построен из ржавчины
 
-### 7. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-⭐ 3 014 · +1 088/день · 12 дн · JavaScript
+### 9. [Niko1221/Strata](https://github.com/Niko1221/Strata)
+⭐ 17 888 · +1 486/день · 13 дн · C++
 
-- **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
+- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
 
-### 8. [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)
-⭐ 9 017 · +878/день · 18 дн · HTML
+### 10. [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+⭐ 2 905 · +1 341/день · 7 дн · Rust
 
-- **Что это:** Экономичное руководство по жизни 528 Online One-Page Reading Edition: Mobile Readable, Searchable, Zero Dependency, Offline Support
+- **Что это:** Переоснащение Adobe Illustrator с открытым исходным кодом и чистым пространством, построенное на чистом Rust.
 
-### 9. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-⭐ 157 199 · +805/день · 117 дн · JavaScript
+### 11. [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
+⭐ 6 998 · +1 249/день · 13 дн · Kotlin
 
-- **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
+- **Что это:** Независимый приемник CarPlay для совместимых головных устройств Android. Проводной и беспроводной публичный предварительный просмотр.
 
-### 10. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-⭐ 44 424 · +803/день · 173 дн · HTML
+### 12. [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+⭐ 3 169 · +1 165/день · 8 дн · TypeScript
+
+- **Что это:** Компоненты WebGPU для React, Vue, Svelte, Solid, JS и Framer
+
+### 13. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+⭐ 45 581 · +1 157/день · 174 дн · HTML
 
 - **Что это:** Дизайн редакционной диаграммы для типов диаграмм Claude Code, Codex, GitHub Copilot, Factory Droid и Pi. 42. Автономный HTML + SVG. Никаких теней. Никаких русалок.
 
-### 11. [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise)
-⭐ 2 888 · +769/день · 8 дн · Python
+### 14. [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
+⭐ 2 223 · ~1 112/день · 2 дн · JavaScript
 
-- **Что это:** Плагин Claude Code, который поможет вам научиться строить, пока ИИ пишет код.
+- **Что это:** Навыки художественной анимации: 35 художественных стилей, 9 повествовательных грамматик и код для перемещения анимации.
 
-### 12. [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)
-⭐ 91 566 · +764/день · 128 дн · Python
+### 15. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+⭐ 4 062 · +1 048/день · 13 дн · JavaScript
 
-- **Что это:** Самостоятельно размещаемое рабочее пространство ИИ.
-
-### 13. [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
-⭐ 3 323 · +714/день · 8 дн · Swift
-
-- **Что это:** Debloat macOS: отключите Apple Intelligence, аналитику, рекламу и всплывающие окна. Собственное приложение и интерфейс командной строки, и каждое изменение может быть отменено.
-
-### 14. [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
-⭐ 4 877 · +691/день · 7 дн · Python
-
-- **Что это:** Очко Клода в любой игре. Навыки, инструменты и FAL MCP, которые позволяют Claude Code модифицировать практически любую компьютерную игру, которой вы владеете: разведка, обратный инжиниринг, арт/3D/аудио, тестирование в игре, демонстрация видео.
-
-### 15. [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
-⭐ 5 749 · +666/день · 12 дн · Kotlin
-
-- **Что это:** Независимый приемник CarPlay для совместимых головных устройств Android. Проводной и беспроводной публичный предварительный просмотр.
+- **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
 
