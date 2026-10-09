@@ -1,79 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-08
+# Быстрорастущие репозитории GitHub - 2026-10-09
 
 `+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
-### 1. [storytold/photocraft](https://github.com/storytold/photocraft)
-⭐ 21 814 · +9 683/день · 7 дн · Rust
-
-- **Что это:** Перепроектирование Adobe Photoshop в чистом Rust с открытым исходным кодом
-
-### 2. [morluto/rea](https://github.com/morluto/rea)
-⭐ 19 237 · +7 775/день · 177 дн · TypeScript
+### 1. [morluto/rea](https://github.com/morluto/rea)
+⭐ 34 525 · +15 288/день · 178 дн · TypeScript
 
 - **Что это:** Обратное проектирование всего, что связано с агентами, от поведения приложения до нативных двоичных файлов.
 
-### 3. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-⭐ 53 609 · +4 654/день · 31 дн · HTML
+### 2. [storytold/photocraft](https://github.com/storytold/photocraft)
+⭐ 31 099 · +9 285/день · 8 дн · Rust
 
-- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+- **Что это:** Перепроектирование Adobe Photoshop в чистом Rust с открытым исходным кодом
 
-### 4. [openai/math](https://github.com/openai/math)
-⭐ 11 235 · +4 481/день · 1 дн · Lean
+### 3. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+⭐ 18 668 · +5 868/день · 66 дн · C++
 
-- **Что это:** нет описания
+- **Что это:** Инструмент для автоматического переноса исполняемых файлов PS5 на Linux и Windows
 
-### 5. [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
-⭐ 12 596 · +2 213/день · 21 дн · Swift
-
-- **Что это:** Альтернатива Photoshop для Mac
-
-### 6. [storytold/lightcraft](https://github.com/storytold/lightcraft)
-⭐ 3 980 · +2 079/день · 7 дн · Rust
+### 4. [storytold/lightcraft](https://github.com/storytold/lightcraft)
+⭐ 6 772 · +2 792/день · 8 дн · Rust
 
 - **Что это:** Реализация Adobe Lightroom в чистом Rust с открытым исходным кодом.
 
+### 5. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+⭐ 56 391 · +2 782/день · 32 дн · HTML
+
+- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+
+### 6. [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+⭐ 5 387 · +2 083/день · 8 дн · Rust
+
+- **Что это:** Реализация Adobe Acrobat в чистом виде с открытым исходным кодом, построенная на чистом Rust
+
 ### 7. [storytold/filmcraft](https://github.com/storytold/filmcraft)
-⭐ 4 119 · +1 751/день · 7 дн · Rust
+⭐ 6 135 · +2 016/день · 8 дн · Rust
 
 - **Что это:** Реализация Adobe Premiere Pro с открытым исходным кодом и чистой комнатой, построенная на чистом Rust.
 
-### 8. [lexmount/moli](https://github.com/lexmount/moli)
-⭐ 13 344 · +1 516/день · 58 дн · Rust
+### 8. [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)
+⭐ 1 824 · ~1 824/день · 1 дн · Go
 
-- **Что это:** Лучший обезглавленный браузер для ИИ-агентов. Легкий, быстрый, высокосовместимый. Построен из ржавчины
+- **Что это:** AI Autonomous Penetration Test System | Baidu "Agent +" Attack and Defense Challenge Champion Project
 
-### 9. [Niko1221/Strata](https://github.com/Niko1221/Strata)
-⭐ 17 888 · +1 486/день · 13 дн · C++
+### 9. [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+⭐ 14 382 · +1 786/день · 22 дн · Swift
 
-- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
+- **Что это:** Альтернатива Photoshop для Mac
 
-### 10. [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
-⭐ 2 905 · +1 341/день · 7 дн · Rust
-
-- **Что это:** Переоснащение Adobe Illustrator с открытым исходным кодом и чистым пространством, построенное на чистом Rust.
-
-### 11. [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay)
-⭐ 6 998 · +1 249/день · 13 дн · Kotlin
-
-- **Что это:** Независимый приемник CarPlay для совместимых головных устройств Android. Проводной и беспроводной публичный предварительный просмотр.
-
-### 12. [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
-⭐ 3 169 · +1 165/день · 8 дн · TypeScript
-
-- **Что это:** Компоненты WebGPU для React, Vue, Svelte, Solid, JS и Framer
-
-### 13. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-⭐ 45 581 · +1 157/день · 174 дн · HTML
+### 10. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+⭐ 47 291 · +1 710/день · 175 дн · HTML
 
 - **Что это:** Дизайн редакционной диаграммы для типов диаграмм Claude Code, Codex, GitHub Copilot, Factory Droid и Pi. 42. Автономный HTML + SVG. Никаких теней. Никаких русалок.
 
-### 14. [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
-⭐ 2 223 · ~1 112/день · 2 дн · JavaScript
+### 11. [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+⭐ 4 487 · +1 582/день · 8 дн · Rust
 
-- **Что это:** Навыки художественной анимации: 35 художественных стилей, 9 повествовательных грамматик и код для перемещения анимации.
+- **Что это:** Переоснащение Adobe Illustrator с открытым исходным кодом и чистым пространством, построенное на чистом Rust.
 
-### 15. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-⭐ 4 062 · +1 048/день · 13 дн · JavaScript
+### 12. [openai/math](https://github.com/openai/math)
+⭐ 12 692 · +1 457/день · 2 дн · Lean
 
-- **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
+- **Что это:** нет описания
+
+### 13. [tt-a1i/archify](https://github.com/tt-a1i/archify)
+⭐ 80 830 · +1 209/день · 177 дн · JavaScript
+
+- **Что это:** Превратите любую идею, план или кодовую базу в красивую интерактивную диаграмму. Навык агента для Claude Code, Codex и других.
+
+### 14. [storytold/effectcraft](https://github.com/storytold/effectcraft)
+⭐ 3 311 · +1 208/день · 7 дн · Rust
+
+- **Что это:** нет описания
+
+### 15. [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness)
+⭐ 10 750 · +1 208/день · 121 дн · Python
+
+- **Что это:** Autoharness — самообучающийся уровень навыков для Claude Code — перерабатывает навыки из ваших реальных занятий, обновляет их по мере работы и обрезает те, которые перестают привыкать. Ни демона, ни эталона.
 
