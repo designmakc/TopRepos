@@ -1,79 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-10
+# Быстрорастущие репозитории GitHub - 2026-10-11
 
 `+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
-### 1. [morluto/rea](https://github.com/morluto/rea)
-⭐ 59 504 · +24 979/день · 179 дн · TypeScript
+### 1. [storytold/photocraft](https://github.com/storytold/photocraft)
+⭐ 44 450 · +5 889/день · 10 дн · Rust
 
-- **Что это:** Обратное проектирование всего, что связано с агентами, от поведения приложения до нативных двоичных файлов.
+- **Что это:** An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
-### 2. [storytold/photocraft](https://github.com/storytold/photocraft)
-⭐ 38 561 · +7 462/день · 9 дн · Rust
+### 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+⭐ 28 205 · +3 991/день · 68 дн · C++
 
-- **Что это:** Перепроектирование Adobe Photoshop в чистом Rust с открытым исходным кодом
+- **Что это:** Tool for automatic PS5 executables porting to Linux and Windows
 
-### 3. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-⭐ 24 214 · +5 546/день · 67 дн · C++
+### 3. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+⭐ 7 922 · +1 580/день · 16 дн · JavaScript
 
-- **Что это:** Инструмент для автоматического переноса исполняемых файлов PS5 на Linux и Windows
+- **Что это:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-### 4. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-⭐ 58 176 · +1 785/день · 33 дн · HTML
+### 4. [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+⭐ 8 609 · +1 510/день · 10 дн · Rust
 
-- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+- **Что это:** An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 
-### 5. [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
-⭐ 7 099 · +1 712/день · 9 дн · Rust
+### 5. [storytold/wordcraft](https://github.com/storytold/wordcraft)
+⭐ 3 878 · +1 440/день · 4 дн · Rust
 
-- **Что это:** Реализация Adobe Acrobat в чистом виде с открытым исходным кодом, построенная на чистом Rust
+- **Что это:** An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ### 6. [storytold/filmcraft](https://github.com/storytold/filmcraft)
-⭐ 7 774 · +1 639/день · 9 дн · Rust
+⭐ 9 209 · +1 435/день · 10 дн · Rust
 
-- **Что это:** Реализация Adobe Premiere Pro с открытым исходным кодом и чистой комнатой, построенная на чистом Rust.
+- **Что это:** An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
 
-### 7. [storytold/lightcraft](https://github.com/storytold/lightcraft)
-⭐ 8 319 · +1 547/день · 9 дн · Rust
+### 7. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+⭐ 59 408 · +1 232/день · 34 дн · HTML
 
-- **Что это:** Реализация Adobe Lightroom в чистом Rust с открытым исходным кодом.
+- **Что это:** 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 
-### 8. [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)
-⭐ 1 363 · ~1 363/день · 1 дн · Rust
+### 8. [storytold/lightcraft](https://github.com/storytold/lightcraft)
+⭐ 9 473 · +1 154/день · 10 дн · Rust
 
-- **Что это:** Поиск файлов всего диска для macOS: нечеткие имена, допуск на опечатки, индексированный контент grep. ~1 мс над 8M файлами.
+- **Что это:** An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
 
-### 9. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-⭐ 6 342 · +1 272/день · 15 дн · JavaScript
+### 9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+⭐ 49 499 · +1 078/день · 177 дн · HTML
 
-- **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
+- **Что это:** Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
-### 10. [Niko1221/Strata](https://github.com/Niko1221/Strata)
-⭐ 20 188 · +1 142/день · 15 дн · C++
+### 10. [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+⭐ 6 570 · +958/день · 10 дн · Rust
 
-- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
+- **Что это:** An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
 
-### 11. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-⭐ 48 421 · +1 130/день · 176 дн · HTML
+### 11. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+⭐ 28 105 · +953/день · 114 дн · JavaScript
 
-- **Что это:** Дизайн редакционной диаграммы для типов диаграмм Claude Code, Codex, GitHub Copilot, Factory Droid и Pi. 44. Автономный HTML + SVG. Никаких теней. Никаких русалок.
+- **Что это:** A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-### 12. [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
-⭐ 5 612 · +1 125/день · 9 дн · Rust
+### 12. [Niko1221/Strata](https://github.com/Niko1221/Strata)
+⭐ 21 101 · +913/день · 16 дн · C++
 
-- **Что это:** Переоснащение Adobe Illustrator с открытым исходным кодом и чистым пространством, построенное на чистом Rust.
+- **Что это:** Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 
-### 13. [yetone/magpie](https://github.com/yetone/magpie)
-⭐ 8 203 · +958/день · 16 дн · Go
+### 13. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+⭐ 50 709 · +880/день · 110 дн · JavaScript
 
-- **Что это:** Модель каждого агента. Одно место. Codex на DeepSeek, Claude Code на Kimi, из строки меню.
+- **Что это:** A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
-### 14. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-⭐ 160 056 · +930/день · 120 дн · JavaScript
+### 14. [lexmount/moli](https://github.com/lexmount/moli)
+⭐ 16 011 · +732/день · 61 дн · Rust
 
-- **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
+- **Что это:** Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 
-### 15. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-⭐ 45 718 · +925/день · 145 дн · Go
+### 15. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+⭐ 160 758 · +702/день · 121 дн · JavaScript
 
-- **Что это:** Безопасный, быстрый, эффективный, проверенный в бою в масштабе Alibaba. Инструмент обзора кода гибридной архитектуры: детерминированные конвейеры + LLM-агент, точные комментарии линейного уровня, встроенный многоязычный набор правил (NPE, thread-safety, XSS, SQL injection), совместимость с OpenAI и Anthropic.
+- **Что это:** Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
