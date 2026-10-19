@@ -1,79 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-18
+# Быстрорастущие репозитории GitHub - 2026-10-19
 
 `+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
-### 1. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-⭐ 23 230 · +2 991/день · 23 дн · JavaScript
+### 1. [google-research/harness2](https://github.com/google-research/harness2)
+⭐ 9 151 · +6 791/день · 12 дн · Python
+
+- **Что это:** нет описания
+
+### 2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+⭐ 26 518 · +3 288/день · 24 дн · JavaScript
 
 - **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
 
-### 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-⭐ 42 285 · +2 074/день · 75 дн · C++
+### 3. [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)
+⭐ 5 370 · +2 315/день · 19 дн · C#
 
-- **Что это:** Инструмент для автоматического переноса исполняемых файлов PS5 на Linux и Windows
+- **Что это:** Бесплатный конвертер файлов с открытым исходным кодом. Преобразование 244+ форматов в автономном режиме с помощью перетаскивания — изображения, PDF, Word, Excel, PowerPoint, HWP/HWPX, видео, аудио, электронные книги и архивы. Загрузка не требуется, Office не требуется.
 
-### 3. [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-⭐ 4 616 · +1 414/день · 10 дн · Rust
+### 4. [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+⭐ 6 369 · +1 753/день · 11 дн · Rust
 
 - **Что это:** SolidCraft: параметрическое 3D CAD-приложение с открытым исходным кодом, построенное на чистом Rust. Десктоп, веб и автоматизация через MCP.
 
-### 4. [storytold/photocraft](https://github.com/storytold/photocraft)
-⭐ 66 775 · +1 352/день · 17 дн · Rust
+### 5. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+⭐ 3 224 · ~1 612/день · 2 дн · Java
 
-- **Что это:** PhotoCraft: фоторедактор с открытым исходным кодом, написанный скретчем в чистом Rust
+- **Что это:** Очистите телевизор. Установите любой Android TV или Google TV через Wi-Fi и поменяйте домашний экран с рекламой на чистую лаунчер в стиле Apple TV. Без корня, полностью обратимый. cleanyour.tv
 
-### 5. [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
-⭐ 15 492 · +1 144/день · 9 дн · JavaScript
+### 6. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+⭐ 43 724 · +1 439/день · 76 дн · C++
 
-- **Что это:** Навык агента для создания подробных интерактивных изометрических иллюстраций реальных машин и сложных систем. Создает полированные SVG с дополнительными шейдерами WebGL и 3D-эффектами.
+- **Что это:** Инструмент для автоматического переноса исполняемых файлов PS5 на Linux и Windows
 
-### 6. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-⭐ 252 585 · +1 143/день · 65 дн · TypeScript
+### 7. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+⭐ 253 987 · +1 402/день · 66 дн · TypeScript
 
 - **Что это:** DeepSeek Harness: Everything is a Plugin.
 
-### 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-⭐ 166 492 · +1 072/день · 128 дн · JavaScript
-
-- **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
-
 ### 8. [yetone/magpie](https://github.com/yetone/magpie)
-⭐ 15 431 · +964/день · 24 дн · Go
+⭐ 16 641 · +1 210/день · 25 дн · Go
 
 - **Что это:** Модель каждого агента. Одно место. Codex на DeepSeek, Claude Code на Kimi, из строки меню.
 
-### 9. [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)
-⭐ 10 481 · +755/день · 23 дн · Kotlin
+### 9. [storytold/photocraft](https://github.com/storytold/photocraft)
+⭐ 67 960 · +1 185/день · 18 дн · Rust
 
-- **Что это:** DroidDeck переносит SteamOS на Android
+- **Что это:** PhotoCraft: фоторедактор с открытым исходным кодом, написанный скретчем в чистом Rust
 
-### 10. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-⭐ 65 451 · +688/день · 41 дн · HTML
+### 10. [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
+⭐ 16 490 · +998/день · 11 дн · JavaScript
 
-- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+- **Что это:** Навык агента для создания подробных интерактивных изометрических иллюстраций реальных машин и сложных систем. Создает полированные SVG с дополнительными шейдерами WebGL и 3D-эффектами.
 
-### 11. [Niko1221/Strata](https://github.com/Niko1221/Strata)
-⭐ 27 090 · +601/день · 23 дн · C++
+### 11. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+⭐ 167 473 · +981/день · 129 дн · JavaScript
+
+- **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
+
+### 12. [feder-cr/git-ai](https://github.com/feder-cr/git-ai)
+⭐ 2 361 · ~787/день · 3 дн · Go
+
+- **Что это:** ЖКТ, предназначенный для ИИ-агентов.
+
+### 13. [Niko1221/Strata](https://github.com/Niko1221/Strata)
+⭐ 27 808 · +718/день · 24 дн · C++
 
 - **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
 
-### 12. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-⭐ 10 133 · +482/день · 149 дн · Rust
+### 14. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
+⭐ 66 150 · +699/день · 42 дн · HTML
+
+- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+
+### 15. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+⭐ 10 810 · +677/день · 150 дн · Rust
 
 - **Что это:** Решение для долговременной памяти для CLI, кодирующих агентов, и для облегчения передачи обслуживания между различными поставщиками агентов
-
-### 13. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-⭐ 30 851 · +478/день · 121 дн · JavaScript
-
-- **Что это:** Навык агента кодирования для многоэтапных аудитов безопасности с независимо проверенными, машиночитаемыми результатами
-
-### 14. [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
-⭐ 15 635 · +469/день · 17 дн · Rust
-
-- **Что это:** PdfCraft: программа для чтения и редактирования PDF с открытым исходным кодом, написанная с нуля на чистом Rust
-
-### 15. [storytold/wordcraft](https://github.com/storytold/wordcraft)
-⭐ 14 168 · +381/день · 11 дн · Rust
-
-- **Что это:** Перепроектирование Microsoft Word в чистом Rust с открытым исходным кодом
 
