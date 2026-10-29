@@ -1,79 +1,79 @@
-# Быстрорастущие репозитории GitHub - 2026-10-28
+# Быстрорастущие репозитории GitHub - 2026-10-29
 
 `+N/день` = прирост звёзд за 24 ч. `~N/день` = оценка (звёзды / возраст), репозиторий ещё не отслеживался.
 
-### 1. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
-⭐ 42 850 · ~3 895/день · 11 дн · Python
+### 1. [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)
+⭐ 2 566 · ~2 566/день · 1 дн · HTML
 
-- **Что это:** Воспользуйтесь любым Android или Google TV через Wi-Fi и получите дом в стиле Apple TV.
+- **Что это:** Китайская версия справочной галереи осанки ИИ · 1439 группа/2878 фотографий/полная статическая галерея Ханьхуа · нулевая зависимость
 
-### 2. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-⭐ 264 366 · ~3 525/день · 75 дн · TypeScript
-
-- **Что это:** DeepSeek Harness: Everything is a Plugin.
-
-### 3. [storytold/photocraft](https://github.com/storytold/photocraft)
-⭐ 74 154 · ~2 746/день · 27 дн · Rust
-
-- **Что это:** PhotoCraft: фоторедактор с открытым исходным кодом, написанный скретчем в чистом Rust
-
-### 4. [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
-⭐ 23 624 · ~1 969/день · 12 дн · Python
-
-- **Что это:** DeepInfer: высокопроизводительный, крупномасштабный фреймворк вывода для моделей DeepSeek
-
-### 5. [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
-⭐ 3 121 · ~1 560/день · 2 дн · -
-
-- **Что это:** нет описания
-
-### 6. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-⭐ 47 999 · ~1 455/день · 33 дн · JavaScript
+### 2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+⭐ 50 130 · +2 131/день · 34 дн · JavaScript
 
 - **Что это:** 在 dsh 里装上这个插件即可， Ключ无需登录、注册或填 API ，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 Все, что вам нужно сделать, это установить этот плагин в dsh: без входа в систему, без регистрации, без ключа API — модели границ только там, DeepSeek V4.1 Flash и Kimi K3 среди них. Полностью бесплатно, без колпачка.
 
-### 7. [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)
-⭐ 70 432 · ~1 381/день · 51 дн · HTML
+### 3. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+⭐ 44 570 · +1 720/день · 12 дн · Python
 
-- **Что это:** Экономически эффективное жизненное руководство: предотвращение долголетия, первая помощь, экономия денег и финансов, юридическая красная линия, безработица и производственные травмы, медицинское страхование, социальное обеспечение, брак по любви и роды, беременность и уход за детьми, предпринимательство и соблюдение платформы, выезд за границу и навыки. В каждой статье указаны затраты, выгоды, уровни доказательств и оригинальное происхождение, со ссылкой только на журнальные статьи и официальные документы.
+- **Что это:** Воспользуйтесь любым Android или Google TV через Wi-Fi и получите дом в стиле Apple TV.
 
-### 8. [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)
-⭐ 15 538 · +1 372/день · 28 дн · C#
+### 4. [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee)
+⭐ 17 038 · +1 500/день · 29 дн · C#
 
 - **Что это:** Бесплатный конвертер файлов с открытым исходным кодом. Конвертируйте 263 формата в автономном режиме с помощью перетаскивания — изображения, PDF, Word, Excel, PowerPoint, HWP/HWPX, видео, аудио, электронные книги и архивы. Загрузка не требуется, Office не требуется.
 
+### 5. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+⭐ 52 227 · +1 396/день · 132 дн · JavaScript
+
+- **Что это:** Навык агента кодирования для многоэтапных аудитов безопасности с независимо проверенными, машиночитаемыми результатами
+
+### 6. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+⭐ 11 687 · +1 188/день · 92 дн · -
+
+- **Что это:** нет описания
+
+### 7. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+⭐ 265 446 · +1 080/день · 76 дн · TypeScript
+
+- **Что это:** DeepSeek Harness: Everything is a Plugin.
+
+### 8. [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
+⭐ 4 175 · +1 054/день · 3 дн · -
+
+- **Что это:** нет описания
+
 ### 9. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-⭐ 178 597 · ~1 294/день · 138 дн · JavaScript
+⭐ 179 651 · +1 054/день · 139 дн · JavaScript
 
 - **Что это:** Заставляет вашего ИИ-агента думать как самого ленивого старшего разработчика в комнате. Лучший код - это код, который вы никогда не писали.
 
-### 10. [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
-⭐ 11 863 · ~1 186/день · 10 дн · C
+### 10. [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+⭐ 3 122 · ~1 041/день · 3 дн · Python
 
-- **Что это:** Ваша GeForce запускает ИИ на половине скорости. Это исправляет его для карт серии 20/30/40. Пропускная способность тензора до 2× FP16 / BF16/TF32
+- **Что это:** Бесплатные офлайн-проверки с открытым исходным кодом на наличие следов известных шпионских программ-наемников. Работает на Windows, macOS и Linux, телефонах Android и резервных копиях iPhone.
 
-### 11. [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
-⭐ 4 348 · ~1 087/день · 4 дн · C
+### 11. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+⭐ 12 710 · +1 030/день · 71 дн · JavaScript
 
-- **Что это:** Источник разблокировки тензора графического процессора для RTX 4090 и экспериментального RTX 4070 Ti SUPER; встроенное программное обеспечение, сгенерированное локально
+- **Что это:** DeepSeek Harness Armor Breaker: все модели могут пробить броню, разные модели могут быть заменены разными подсказками; подсказка по умолчанию для национальной модели «маленький соус». Джейлбрейк для каждой модели — подсказки подкачки под каждую модель. ⭐ Чтобы открыть коллекцию Star дважды, пожалуйста, проверьте раздел «Требования к атрибуции»
 
-### 12. [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
-⭐ 21 678 · ~1 084/день · 20 дн · JavaScript
-
-- **Что это:** Навык агента для создания подробных интерактивных изометрических иллюстраций реальных машин и сложных систем. Создает полированные SVG с дополнительными шейдерами WebGL и 3D-эффектами.
-
-### 13. [Niko1221/Strata](https://github.com/Niko1221/Strata)
-⭐ 34 980 · ~1 060/день · 33 дн · C++
-
-- **Что это:** Qwen3.8-Flash-Next на любом потребительском оборудовании: установка в один клик для Windows / Linux. Механизм вывода страт, OpenAI/Anthropic API на локальном хосте, необязательный ввод изображения.
-
-### 14. [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)
-⭐ 4 007 · ~1 002/день · 4 дн · Python
-
-- **Что это:** Отключите рекламу, горячие поиски, новостные рекомендации и маркетинговый толчок в отечественной системе мобильных телефонов Android. Нет корня, может быть восстановлен, поддерживает выполнение ИИ-агента одним щелчком мыши.
-
-### 15. [google-research/harness2](https://github.com/google-research/harness2)
-⭐ 20 763 · ~989/день · 21 дн · Python
+### 12. [openai/math](https://github.com/openai/math)
+⭐ 17 017 · +902/день · 22 дн · Lean
 
 - **Что это:** нет описания
+
+### 13. [seedds/nxnative](https://github.com/seedds/nxnative)
+⭐ 9 327 · +901/день · 16 дн · Objective-C
+
+- **Что это:** Переключение игр, работающих на iPhone, iPad и Mac: папка NSP становится неподписанным IPA (рерайтер NSO, хост Horizon HLE, NVN→Metal)
+
+### 14. [AienTech/dossier](https://github.com/AienTech/dossier)
+⭐ 3 006 · +877/день · 25 дн · TypeScript
+
+- **Что это:** Самостоятельное приложение для поиска работы, которое пишет индивидуальные резюме и сопроводительные письма из вашего профиля.
+
+### 15. [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+⭐ 12 731 · +868/день · 11 дн · C
+
+- **Что это:** Ваша GeForce запускает ИИ на половине скорости. Это исправляет его для карт серии 20/30/40. Пропускная способность тензора до 2× FP16 / BF16/TF32
 
